@@ -1,4 +1,4 @@
-Connect to aws :  ssh -i "aws.pem" ubuntu@ec2-3-109-190-156.ap-south-1.compute.amazonaws.com
+Connect to aws :  ssh -i "aws.pem" ubuntu@PUBLIC_IP
 
 
 after that :
@@ -11,5 +11,3 @@ cd Solar-data-visulaization
 chmod +x cmd.sh
 
 sudo ./cmd.sh
-
-python3 app.py
