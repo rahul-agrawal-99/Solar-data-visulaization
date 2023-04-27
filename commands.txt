@@ -6,6 +6,10 @@ after that :
 
 git clone https://github.com/rahul-agrawal-99/Solar-data-visulaization
 
-sudu chmod +x cmd.sh
+cd Solar-data-visulaization
+
+chmod +x cmd.sh
+
+sudo ./cmd.sh
 
 python3 app.py
