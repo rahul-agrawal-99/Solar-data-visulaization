@@ -1,0 +1,6 @@
+Connect to aws :  ssh -i "aws.pem" ubuntu@ec2-3-109-190-156.ap-south-1.compute.amazonaws.com
+
+
+after that :
+
+python3 app.py
