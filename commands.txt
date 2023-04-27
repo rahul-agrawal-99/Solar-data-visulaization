@@ -3,4 +3,9 @@ Connect to aws :  ssh -i "aws.pem" ubuntu@ec2-3-109-190-156.ap-south-1.compute.a
 
 after that :
 
+
+git clone https://github.com/rahul-agrawal-99/Solar-data-visulaization
+
+sudu chmod +x cmd.sh
+
 python3 app.py
